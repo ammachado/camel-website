@@ -1156,6 +1156,20 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@fontsource/archivo@npm:^5.3.0":
+  version: 5.3.0
+  resolution: "@fontsource/archivo@npm:5.3.0"
+  checksum: 10/778dec06ac9cf0bd44794d42f7d1a56bf5dcd015d948d8a1024f912a73d461561d27c678fdfa08fedffb6f77e9bdca913b05468b7fdcaba30b28bbc7d5bffa88
+  languageName: node
+  linkType: hard
+
+"@fontsource/jetbrains-mono@npm:^5.3.0":
+  version: 5.3.0
+  resolution: "@fontsource/jetbrains-mono@npm:5.3.0"
+  checksum: 10/8d96ebd4b19639a1988a3004909d454470069315b39b3177dddcc13f0d79570b14ed183abdf36866751d1c34814667ae6c8bbd558e6f366d168f7ec49167a851
+  languageName: node
+  linkType: hard
+
 "@hapi/bourne@npm:^2.0.0":
   version: 2.0.0
   resolution: "@hapi/bourne@npm:2.0.0"
@@ -3850,6 +3864,8 @@ __metadata:
   dependencies:
     "@asciidoctor/core": "npm:^3.0.2"
     "@asciidoctor/tabs": "npm:1.0.0-beta.3"
+    "@fontsource/archivo": "npm:^5.3.0"
+    "@fontsource/jetbrains-mono": "npm:^5.3.0"
     "@openfonts/open-sans_latin-ext": "npm:^1.44.0"
     "@ronilaukkarinen/gulp-stylelint": "npm:^14.1.2"
     "@vscode/gulp-vinyl-zip": "npm:^2.5.0"
