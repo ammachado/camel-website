@@ -49,7 +49,7 @@ html:not([data-scroll='0']) .navbar {
     position: absolute;
     height: 2px;
     width: 0;
-    background-color: var(--color-asf-dark-blue);
+    background-color: var(--color-ink);
   }
 
   .navbar-end > .navbar-item:hover::after {
@@ -329,7 +329,7 @@ html:not([data-scroll='0']) .navbar {
 
 .result_header {
   font-weight: 600;
-  color: var(--color-asf-dark-blue);
+  color: var(--color-ink);
   padding-right: 0.5rem;
 }
 
@@ -395,14 +395,14 @@ html:not([data-scroll='0']) .navbar {
 }
 
 div.footer-search h4 {
-  color: var(--color-asf-dark-blue);
+  color: var(--color-ink);
   width: 5rem;
 }
 
 .no_search_results {
   padding: 1rem;
   font-weight: bold;
-  color: var(--color-asf-dark-blue);
+  color: var(--color-ink);
   border-bottom: 2px solid var(--color-smoke-50);
 }
 
