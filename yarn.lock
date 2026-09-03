@@ -3911,7 +3911,6 @@ __metadata:
     svg4everybody: "npm:^2.1.9"
     through2: "npm:~3.0"
     toml: "npm:^3.0.0"
-    typeface-droid-sans-mono: "npm:^0.0.44"
     undertaker: "npm:~1.2"
     vinyl-buffer: "npm:~1.0"
     vinyl-fs: "npm:~3.0"
@@ -21616,13 +21615,6 @@ __metadata:
   version: 0.0.6
   resolution: "typedarray@npm:0.0.6"
   checksum: 10/2cc1bcf7d8c1237f6a16c04efc06637b2c5f2d74e58e84665445cf87668b85a21ab18dd751fa49eee6ae024b70326635d7b79ad37b1c370ed2fec6aeeeb52714
-  languageName: node
-  linkType: hard
-
-"typeface-droid-sans-mono@npm:^0.0.44":
-  version: 0.0.44
-  resolution: "typeface-droid-sans-mono@npm:0.0.44"
-  checksum: 10/4d9cf9a6fd969972309f194c61e41c62d94223e1f7079b73db5fb2c63f70caa9d7956d5ff3812cade0ecbd4e7bdc99f096e83a6a1aa6681a96bf4a0dd5804f00
   languageName: node
   linkType: hard
 
